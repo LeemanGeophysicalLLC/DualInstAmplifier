@@ -19,7 +19,7 @@ gerbers, etc.
 
 Additional resources for this project include:
 
-- [Bill of Materials](bom.md) (BoM)
+- [Bill of Materials](BoM.md) (BoM)
 - [INA128 Datasheet](PDFs/ina128.pdf)
 
 ## License
