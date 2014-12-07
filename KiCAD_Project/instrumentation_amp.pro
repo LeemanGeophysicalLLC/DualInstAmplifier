@@ -1,6 +1,6 @@
-update=11/12/2014 1:24:17 PM
+update=12/7/2014 8:25:01 AM
 version=1
-last_client=cvpcb
+last_client=pcbnew
 [general]
 version=1
 [eeschema]
@@ -46,6 +46,11 @@ LibName31=Voltage Regulators
 LibName32=Custom Power
 LibName33=TI Instrumentation Amplifiers
 LibName34=Jumpers
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=instrumentation_amp.net
@@ -66,6 +71,7 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
+LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -86,9 +92,3 @@ LibName17=TantalumSMDCaps
 LibName18=LMRegulators
 LibName19=LG_logo
 LibName20=SMD_Jumpers
-LibDir=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
