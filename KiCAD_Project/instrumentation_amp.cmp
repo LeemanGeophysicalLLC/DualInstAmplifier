@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/7/2014 9:16:35 AM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 11/12/2014 1:24:48 PM
 
 BeginCmp
 TimeStamp = /542FF927;
@@ -200,154 +200,42 @@ BeginCmp
 TimeStamp = /54328494;
 Reference = J5;
 ValeurCmp = SP3T_SOLDER;
-IdModule  = SP3T;
+IdModule  = Solder_SPTT;
 EndCmp
 
 BeginCmp
 TimeStamp = /5432920B;
 Reference = J6;
 ValeurCmp = SP3T_SOLDER;
-IdModule  = SP3T;
+IdModule  = Solder_SPTT;
 EndCmp
 
 BeginCmp
-TimeStamp = /5432C70B;
+TimeStamp = /5463926E;
 Reference = P1;
-ValeurCmp = +VIN;
-IdModule  = 1pinhead;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
 EndCmp
 
 BeginCmp
-TimeStamp = /5432C705;
+TimeStamp = /5463927B;
 Reference = P2;
-ValeurCmp = -VIN;
-IdModule  = 1pinhead;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
 EndCmp
 
 BeginCmp
-TimeStamp = /54300AF4;
+TimeStamp = /54639281;
 Reference = P3;
-ValeurCmp = TXDR -IN 1;
-IdModule  = 1pinhead;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
 EndCmp
 
 BeginCmp
-TimeStamp = /54300B23;
+TimeStamp = /54639287;
 Reference = P4;
-ValeurCmp = TXDR -IN 1;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54329199;
-Reference = P5;
-ValeurCmp = TXDR -IN 2;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /5432919F;
-Reference = P6;
-ValeurCmp = TXDR -IN 2;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54300B29;
-Reference = P7;
-ValeurCmp = TXDR -OUT 1;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54300B2F;
-Reference = P8;
-ValeurCmp = TXDR -OUT 1;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /543291A5;
-Reference = P9;
-ValeurCmp = TXDR -OUT 2;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /543291AB;
-Reference = P10;
-ValeurCmp = TXDR -OUT 2;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /543029F1;
-Reference = P11;
-ValeurCmp = +15VDC;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /543029EB;
-Reference = P12;
-ValeurCmp = +15VDC;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /543029F7;
-Reference = P13;
-ValeurCmp = +15VDC;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /543029FD;
-Reference = P14;
-ValeurCmp = -15VDC;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54302A03;
-Reference = P15;
-ValeurCmp = -15VDC;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54302A09;
-Reference = P16;
-ValeurCmp = -15VDC;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54302A0F;
-Reference = P17;
-ValeurCmp = GND;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54302A15;
-Reference = P18;
-ValeurCmp = GND;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /54302A1B;
-Reference = P19;
-ValeurCmp = GND;
-IdModule  = 1pinhead;
-EndCmp
-
-BeginCmp
-TimeStamp = /5432C9AC;
-Reference = P20;
-ValeurCmp = GND;
-IdModule  = 1pinhead;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
 EndCmp
 
 BeginCmp
@@ -388,14 +276,14 @@ EndCmp
 BeginCmp
 TimeStamp = /543284BF;
 Reference = R6;
-ValeurCmp = 5.49K;
+ValeurCmp = 5.62K;
 IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543284C5;
 Reference = R7;
-ValeurCmp = 499;
+ValeurCmp = 511;
 IdModule  = SM0805;
 EndCmp
 
@@ -409,14 +297,14 @@ EndCmp
 BeginCmp
 TimeStamp = /54329211;
 Reference = R9;
-ValeurCmp = 5.49K;
+ValeurCmp = 5.62K;
 IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /54329217;
 Reference = R10;
-ValeurCmp = 499;
+ValeurCmp = 511;
 IdModule  = SM0805;
 EndCmp
 
