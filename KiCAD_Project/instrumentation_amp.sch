@@ -40,7 +40,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "12 nov 2014"
+Date "7 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -969,7 +969,7 @@ Wire Wire Line
 	4950 4000 4950 4500
 Connection ~ 5700 4500
 Text Notes 9940 7890 0    60   ~ 0
-A
+B
 Text Notes 6650 7770 0    60   ~ 0
 Dual Channel Instrumentation Buffer/Amplifier - J.R. Leeman
 $Comp
