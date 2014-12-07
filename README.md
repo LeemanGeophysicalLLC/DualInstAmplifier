@@ -10,7 +10,7 @@ built around the INA128 amplifier.
 ## Purchasing
 
 The dual channel instrumentation amplifier is available through Leeman
-Geophysical by emailing [John R. Leeman](www.johnrleeman.com) at <kd5wxb@gmail.com>.
+Geophysical by emailing [John R. Leeman](http://www.johnrleeman.com) at <kd5wxb@gmail.com>.
 
 ## Project Information
 
