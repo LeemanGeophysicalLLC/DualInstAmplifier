@@ -1,5 +1,8 @@
 # Dual Channel Instrumentation Amplifier
 
+![](Pictures/Front.jpg)
+![](Pictures/Back.jpg)
+
 ## Purpose
 
 To provide an easy way to buffer, amplify, and filter analog signals. This is a
