@@ -1,7 +1,7 @@
 # Dual Channel Instrumentation Amplifier
 
-![](Pictures/Front.jpg)
-![](Pictures/Back.jpg)
+![](Pictures/front.jpg)
+![](Pictures/back.jpg)
 
 ## Purpose
 
