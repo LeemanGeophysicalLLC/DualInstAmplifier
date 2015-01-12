@@ -7,7 +7,7 @@
 
 To provide an easy way to buffer, amplify, and filter analog signals. This is a
 common problem in prototyping and laboratory settings where instrumentation is
-often tested, changed, reconfigured, etc. This instrumetation grade product is
+often tested, changed, reconfigured, etc. This instrumentation grade product is
 built around the INA128 amplifier.
 
 ## Purchasing
