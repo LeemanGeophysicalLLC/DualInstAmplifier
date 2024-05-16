@@ -1,5 +1,7 @@
 # Dual Channel Instrumentation Amplifier
 
+**THIS PRODUCT HAS BEEN RETIRED AND IS NO LONGER PRODUCED**
+
 ![](Pictures/front.jpg)
 ![](Pictures/back.jpg)
 
